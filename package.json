@@ -1,0 +1,17 @@
+{
+  "name": "minecraft-lan-search",
+  "version": "1.0.0",
+  "description": "Locate Minecraft Servers in LAN",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "type": "module",
+  "keywords": [
+    "minecraft",
+    "lan"
+  ],
+  "author": "aoleg94",
+  "license": "ISC",
+  "dependencies": {}
+}
